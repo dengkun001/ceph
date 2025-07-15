@@ -6,3 +6,4 @@ kafka-python >=2.0.0
 pika
 cloudevents
 xmltodict
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
